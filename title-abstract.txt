@@ -1,2 +1,5 @@
-Title: Improving Accessibility of Concept Bottleneck Layers for Scalable, Accurate, Interpretable Models
-Abstract: LLMs are powerful but often opaque, making their decisions hard to interpret. Concept Bottleneck Layers (CBLs) bridge this gap by mapping model outputs to human-understandable concepts. We introduce a user-friendly GUI that lets anyone—regardless of technical expertise—integrate CBLs into pre-trained LLMs (.pt files), visualize top-N activated concepts, and prune biased ones. By identifying and unlearning biases, our approach helps models make fairer, more reliable predictions. Our goal? To empower users to scrutinize and refine models for greater transparency and fairness. This work builds on the framework by Weng et al. (2024).
+Title: 
+Improving Accessibility of Concept Bottleneck Layers for Scalable, Accurate, Interpretable Models
+
+Abstract: 
+LLMs are powerful but often opaque, making their decisions hard to interpret. Concept Bottleneck Layers (CBLs) bridge this gap by mapping model outputs to human-understandable concepts. We introduce a user-friendly GUI that lets anyone—regardless of technical expertise—integrate CBLs into pre-trained LLMs (.pt files), visualize top-N activated concepts, and prune biased ones. By identifying and unlearning biases, our approach helps models make fairer, more reliable predictions. Our goal? To empower users to scrutinize and refine models for greater transparency and fairness. This work builds on the framework by Weng et al. (2024).
